@@ -1,0 +1,175 @@
+{
+  "name": "Rennan Cockles",
+  "title": "Software Engineer / Data Engineer",
+  "summary":"Computer Engineer with emphasis on computational modeling by the State University of Rio de Janeiro with 10+ years of experience in technology areas such as software engineering, artificial intelligence and infrastructure. \nData engineer with a focus on problem solving and a strong background in development, able to build well-structured, testable and maintainable applications, following the best practices in architecture and design.",
+  "education": [
+    {
+      "startDate": "2012",
+      "endDate": "2017",
+      "location": "Nova Friburgo - RJ",
+      "title": "Bachelor of Science in Computer Engineering",
+      "org": "State University of Rio de Janeiro, UERJ"
+    },
+    {
+      "startDate": "2020",
+      "endDate": "",
+      "location": "Belo Horizonte - MG",
+      "title": "Post-Graduation in Analytics and Business Intelligence",
+      "org": "Pontifical Catholic University of Minas Gerais, PUCMG"
+    }
+  ],
+  "workExperience": [
+    {
+      "startDate": "2021-05",
+      "endDate": "",
+      "location": "São Paulo - SP",
+      "remote": true,
+      "employer": "Wittel",
+      "position": "Data Engineering Specialist",
+      "description": "Specialist data engineer responsible for the architecture and maintenance of the company's Data Lake as well as the structuring of data ingestion and ETL flows, configuration and integration of AWS with Databricks using SSO to support the development of predictive models by the team of data scientists, developing a well-documented API and code testing to give access to machine learning models in production while always following Agile principles with continuous integration and delivery pipelines",
+      "tools": "Python, FastAPI, VueJS, Spark, Git, PostgreSQL, Bitbucket, Bitbucket Pipelines, Databricks, AWS Cloud (S3, Glue, Lambda, RDS, ...)"
+    },
+    {
+      "startDate": "2020-07",
+      "endDate": "2021-05",
+      "location": "São Caetano - SP",
+      "remote": true,
+      "employer": "Via Varejo",
+      "position": "Senior Data Scientist",
+      "description": "Senior data scientist working in the pricing team interacting with the business team to define projects and deliveries. Responsible for developing tools that help the business team to carry out and maintain more strategic pricing for the company",
+      "tools": "Linux, Python, VueJS, Spark, Pandas, Alteryx, Jenkins, Databricks, Azure Cloud, Data Factory, Data Lake, Nginx and Git"
+    },
+    {
+      "startDate": "2020-01",
+      "endDate": "2020-07",
+      "location": "Miami - FL",
+      "remote": true,
+      "employer": "Synnex Westcon-Comstor Latam",
+      "position": "Machine Learning Engineer",
+      "description": "Lead Engineer of Machine Learning projects. Responsible for all stack from configuring Linux server to publishing the machine learning application as a Python API with Flask Framework",
+      "tools": "Linux, Python, Keras, Scikit-Learn, Pandas, Flask, Jenkins, Sentry, Nginx and Git"
+    },
+    {
+      "startDate": "2018-05",
+      "endDate": "2020-07",
+      "location": "Miami - FL",
+      "remote": true,
+      "employer": "Synnex Westcon-Comstor Latam",
+      "position": "Software Engineer",
+      "description": "Software engineer of the Innovations team interacting with the business team to define new demands and deliveries using the principles of SCRUM and Kanban methodologies. Responsible for introducing automated tasks such as deploying applications in different environments (DEV, HLG, PROD), using migrations for databases, adoption of CI/CD tools and error tracking with Sentry",
+      "tools": "C#, .NET (Framework e Core), HTML, CSS, JavaScript, AngularJS, VueJS, Git, Agile Development (SCRUM, Kanban), Jenkins, Sentry, SQL Server and IIS Web Server"
+    },
+    {
+      "startDate": "2017-08",
+      "endDate": "2018-04",
+      "location": "Nova Friburgo - RJ",
+      "remote": false,
+      "employer": "Gigalink",
+      "position": "Network Analyst",
+      "description": "Configuration of Cisco, Huawei, Datacom and MikroTik equipment, network expansion projects, user support, management and monitoring of the network, development of tools like: \n• Scripts in Bash to use (or not) with Nagios for monitoring the power (dBm) and traffic (Mbps) of SFPs \n• Web application for mapping and monitoring the company's backbone in real time warning link faults through a bot in telegram \n• Cacti graph templates for Huawei devices \n• Web application with maps to help network expansion projects \n• Telegram bot to inform devices status",
+      "tools": "Linux, Python, HTML, CSS, JavaScript, Nagios, Cacti"
+    },
+    {
+      "startDate": "2016-05",
+      "endDate": "2017-07",
+      "location": "Nova Friburgo - RJ",
+      "remote": false,
+      "employer": "Gigalink",
+      "position": "Full Stack Developer",
+      "description": "Development of the company’s ERP using Ruby on Rails responsible for the development of tools such as: \n• Internet instalation viability script for new clients \n• Sales Funnel \n• Data Warehouse \n• Business intelligence tool",
+      "tools": "Linux, Ruby, Ruby on Rails, HTML, CSS, JavaScript, JQuery, Git, MVC, Agile Development, PostgreSQL, Elastic Search and Firebase"
+    },
+    {
+      "startDate": "2015-07",
+      "endDate": "2016-04",
+      "location": "Nova Friburgo - RJ",
+      "remote": false,
+      "employer": "Vista Group Network",
+      "position": "Software Engineer Intern",
+      "description": "Ubuntu server manager and lead software developer in computer vision field, working with: \n• Object recognition \n• Event detection \n• Image processing",
+      "tools": "Linux, Git, Python, Node, Bash Script, OpenCV, MongoDB and MySql"
+    }
+
+  ],
+  "contact": {
+    "address": {
+      "line1": "Cônego, Nova Friburgo - RJ",
+      "line2": ""
+    },
+    "phone": {
+      "number": "+55 (22) 99622-3098",
+      "whatsapp": true
+    },
+    "email": "r3ck.dev@gmail.com",
+    "site": "https://www.r3ck.com.br/",
+    "linkedin": "https://www.linkedin.com/in/rennancockles",
+    "github": "https://github.com/rennancockles"
+  },
+  "languages": [
+    {
+      "language": "Portuguese",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Advanced"
+    }
+  ],
+  "certifications": [
+    {
+      "date": "2020-09",
+      "org": "Kanban Institute",
+      "name": "Kanban Foundation (KIKF)",
+      "url": "https://certificates.easy-lms.com/exam/session/65f5540c-27c2-44c3-aff8-90be99c78ae2"
+    },
+    {
+      "date": "2020-07",
+      "org": "CertiProf",
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "url": ""
+    },
+    {
+      "date": "2020-07",
+      "org": "CertiProf",
+      "name": "DevOps Essentials Professional Certificate (DEPC)",
+      "url": ""
+    },
+    {
+      "date": "2020-01",
+      "org": "Stanford",
+      "name": "Machine Learning",
+      "url": ""
+    },
+    {
+      "date": "2020-01",
+      "org": "IBM",
+      "name": "Scalable Machine Learning on Big Data using Apache Spark",
+      "url": "https://coursera.org/share/88e3ad334d5745ac70eb70b573ca74a2"
+    },
+    {
+      "date": "2020-01",
+      "org": "IBM",
+      "name": "Building Deep Learning Models with TensorFlow",
+      "url": "https://coursera.org/share/acec1ccb0e032dd2526e7ef0ed4b159e"
+    },
+    {
+      "date": "2020-01",
+      "org": "IBM",
+      "name": "Building Deep Learning Models with Keras",
+      "url": "https://coursera.org/share/2dbbf73a410b572c9ab1f2fb2991169a"
+    },
+    {
+      "date": "2020-01",
+      "org": "IBM",
+      "name": "Deep Neural Networks with PyTorch",
+      "url": "https://coursera.org/share/bdd651512804af1f62d8f5692a4619de"
+    },
+    {
+      "date": "2020-01",
+      "org": "IBM",
+      "name": "Machine Learning with Python",
+      "url": "https://coursera.org/share/1f226021191598b5bc3021cd6bb1fc6b"
+    }
+  ]
+}
+
