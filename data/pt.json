@@ -116,6 +116,12 @@
   ],
   "certifications": [
     {
+      "date": "2021-10",
+      "org": "Certiprof",
+      "name": "Fundamentos na LGPD (LGPDF)",
+      "url": ""
+    },
+    {
       "date": "09/2020",
       "org": "Kanban Institute",
       "name": "Kanban Foundation (KIKF)",
