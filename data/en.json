@@ -20,6 +20,16 @@
   ],
   "workExperience": [
     {
+      "startDate": "12/2021",
+      "endDate": "",
+      "location": "New York - NY",
+      "remote": true,
+      "employer": "Blue Orange",
+      "position": "Data Engineering / Machine Learning Engineer",
+      "description": "Data Engineering / Machine Learning Engineer working together with the biggest credit report and score company in the world with clients in more than 100 countries. In my role I work on the development and implementation of the platform that suports machine learning models used by our clients",
+      "tools": "Python, Docker, Git, Github, Bitbucket, Machinify, Jenkins, JFrog, Snowflake, AWS Cloud, Azure"
+    },
+    {
       "startDate": "2021-05",
       "endDate": "",
       "location": "São Paulo - SP",

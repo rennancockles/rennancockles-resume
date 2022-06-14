@@ -20,6 +20,16 @@
   ],
   "workExperience": [
     {
+      "startDate": "12/2021",
+      "endDate": "",
+      "location": "Nova York - NY",
+      "remote": true,
+      "employer": "Blue Orange",
+      "position": "Data Engineering / Machine Learning Engineer",
+      "description": "Engenheiro de dados / engenheiro de machine learning trabalhando em parceria com a maior empresa do setor de relatório de crédito e score do mundo com atuação em mais de 100 países. Meu papel é atuar no desenvolvimento e implantação da plataforma que dá suporte aos modelos de machine learning utilizados por nosso clientes",
+      "tools": "Python, Docker, Git, Github, Bitbucket, Machinify, Jenkins, JFrog, Snowflake, AWS Cloud, Azure"
+    },
+    {
       "startDate": "05/2021",
       "endDate": "",
       "location": "São Paulo - SP",
