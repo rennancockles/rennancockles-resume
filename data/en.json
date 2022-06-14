@@ -12,7 +12,7 @@
     },
     {
       "startDate": "2020",
-      "endDate": "",
+      "endDate": "2022",
       "location": "Belo Horizonte - MG",
       "title": "Post-Graduation in Analytics and Business Intelligence",
       "org": "Pontifical Catholic University of Minas Gerais, PUCMG"
@@ -26,7 +26,7 @@
       "remote": true,
       "employer": "Blue Orange",
       "position": "Data Engineering / Machine Learning Engineer",
-      "description": "Data Engineering / Machine Learning Engineer working together with the biggest credit report and score company in the world with clients in more than 100 countries. In my role I work on the development and implementation of the platform that suports machine learning models used by our clients",
+      "description": "Blue Orange Digital is recognized as a “Top AI Development and Consultant Agency” by Clutch and YahooFinance, for innovations in predictive analytics, automation, and optimization with machine learning in NYC. We help organizations optimize and automate their businesses, implement data-driven analytic techniques and understand the implications of new technologies such as artificial intelligence, big data, and the Internet of Things. \nIn my role as Data Engineering / Machine Learning Engineer, I work together with the biggest credit report and score company in the world with clients in more than 100 countries. My main job is to development and implement the platform that suports machine learning models used by our clients",
       "tools": "Python, Docker, Git, Github, Bitbucket, Machinify, Jenkins, JFrog, Snowflake, AWS Cloud, Azure"
     },
     {
@@ -37,7 +37,7 @@
       "employer": "Wittel",
       "position": "Data Engineering Specialist",
       "description": "Specialist data engineer responsible for the architecture and maintenance of the company's Data Lake as well as the structuring of data ingestion and ETL flows, configuration and integration of AWS with Databricks using SSO to support the development of predictive models by the team of data scientists, developing a well-documented API and code testing to give access to machine learning models in production while always following Agile principles with continuous integration and delivery pipelines",
-      "tools": "Python, FastAPI, VueJS, Spark, Git, PostgreSQL, Bitbucket, Bitbucket Pipelines, Databricks, AWS Cloud (S3, Glue, Lambda, RDS, ...)"
+      "tools": "Python, FastAPI, VueJS, Spark, Git, PostgreSQL, MySQL, Bitbucket, Bitbucket Pipelines, Databricks, AWS Cloud (S3, Glue, Lambda, RDS, ...)"
     },
     {
       "startDate": "2020-07",

@@ -12,7 +12,7 @@
     },
     {
       "startDate": "2020",
-      "endDate": "",
+      "endDate": "2022",
       "location": "Belo Horizonte - MG",
       "title": "Pós-Graduação em Analytics e Business Intelligence",
       "org": "Pontifícia Universidade Católica de Minas Gerais, PUCMG"
@@ -26,7 +26,7 @@
       "remote": true,
       "employer": "Blue Orange",
       "position": "Data Engineering / Machine Learning Engineer",
-      "description": "Engenheiro de dados / engenheiro de machine learning trabalhando em parceria com a maior empresa do setor de relatório de crédito e score do mundo com atuação em mais de 100 países. Meu papel é atuar no desenvolvimento e implantação da plataforma que dá suporte aos modelos de machine learning utilizados por nosso clientes",
+      "description": "Engenheiro de dados / engenheiro de machine learning trabalhando em parceria com a maior empresa do setor de relatório de crédito e score do mundo com atuação em mais de 100 países. Meu papel é atuar no desenvolvimento e implantação da plataforma que dá suporte aos modelos de machine learning utilizados por nossos clientes",
       "tools": "Python, Docker, Git, Github, Bitbucket, Machinify, Jenkins, JFrog, Snowflake, AWS Cloud, Azure"
     },
     {
@@ -37,7 +37,7 @@
       "employer": "Wittel",
       "position": "Data Engineering Specialist",
       "description": "Engenheiro de dados especialista responsável pela criação da arquitetura e manutenção do Data Lake da empresa bem como a estruturação dos fluxos de ingestão e ETL dos dados, configuração e integração do AWS com o Databricks utilizando SSO para dar suporte ao desenvolvimento de modelos preditivos pelo time de cientistas de dados, desenvolvimento de uma API bem documentada e com testes de código para dar acesso aos modelos de machine learning em produção sempre seguindo os princípios Agile com pipelines de integração e entrega contínuas",
-      "tools": "Python, FastAPI, VueJS, Spark, Git, PostgreSQL, Bitbucket, Bitbucket Pipelines, Databricks, AWS Cloud (S3, Glue, Lambda, RDS, ...)"
+      "tools": "Python, FastAPI, VueJS, Spark, Git, PostgreSQL, MySQL, Bitbucket, Bitbucket Pipelines, Databricks, AWS Cloud (S3, Glue, Lambda, RDS, ...)"
     },
     {
       "startDate": "07/2020",
