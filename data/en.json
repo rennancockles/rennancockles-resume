@@ -27,7 +27,7 @@
       "employer": "Blue Orange",
       "position": "Data Engineering / Machine Learning Engineer",
       "description": "Blue Orange Digital is recognized as a “Top AI Development and Consultant Agency” by Clutch and YahooFinance, for innovations in predictive analytics, automation, and optimization with machine learning in NYC. We help organizations optimize and automate their businesses, implement data-driven analytic techniques and understand the implications of new technologies such as artificial intelligence, big data, and the Internet of Things. \nIn my role as Data Engineering / Machine Learning Engineer, I work together with the biggest credit report and score company in the world with clients in more than 100 countries. My main job is to development and implement the platform that suports machine learning models used by our clients",
-      "tools": "Python, Docker, Git, Github, Bitbucket, Machinify, Jenkins, JFrog, Snowflake, AWS Cloud, Azure"
+      "tools": "Python, Docker, Git, Github, Bitbucket, Jenkins, JFrog, AWS Cloud, Terraform, Localstack"
     },
     {
       "startDate": "2021-05",
