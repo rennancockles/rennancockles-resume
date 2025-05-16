@@ -8,11 +8,11 @@ jobs:
     name: Resume Action Job
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Resume Template
-        uses: rennancockles/resume-action@v1
+        uses: rennancockles/resume-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          directory: 'data'
+          resume_file: 'data/resume.json'
           cname: 'resume.r3ck.com.br'

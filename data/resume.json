@@ -1,0 +1,186 @@
+{
+  "name": "Rennan Cockles",
+  "title": "Software Engineer | Machine Learning Engineer | Python Specialist",
+  "summary": "Brazilian Software Engineer and Machine Learning Engineer with over 10 years of experience across national and multinational companies. \nHolding a Bachelor's in Computer Engineering and a Post-Graduation in Analytics, I excel in developing data-driven solutions and optimizing processes using cutting-edge technologies.",
+  "education": [
+    {
+      "start_date": "2012",
+      "end_date": "2017",
+      "location": "Nova Friburgo - RJ",
+      "title": "Bachelor of Science in Computer Engineering",
+      "institution": "State University of Rio de Janeiro, UERJ"
+    },
+    {
+      "start_date": "2020",
+      "end_date": "2022",
+      "location": "Belo Horizonte - MG",
+      "title": "Post-Graduation in Analytics and Business Intelligence",
+      "institution": "Pontifical Catholic University of Minas Gerais, PUCMG"
+    },
+    {
+      "start_date": "2025",
+      "end_date": "2026",
+      "location": "São Paulo - SP",
+      "title": "Post-Graduation in Technical Leadership",
+      "institution": "Full Cycle Technology, FCTECH"
+    }
+  ],
+  "work_experience": [
+    {
+      "start_date": "2021-12",
+      "end_date": "",
+      "location": "New York - NY",
+      "remote": true,
+      "company": "Blue Orange Digital",
+      "title": "Machine Learning Engineer",
+      "description": "Led the development and implementation of machine learning platforms for a global credit report company, optimizing analytics and automation for clients in over 100 countries. Collaborated with cross-functional teams to deliver innovative AI solutions.",
+      "tools": ["Python", "FastAPI", "Docker", "Git", "Jenkins", "AWS Cloud", "Terraform", "Kubernetes", "PostgreSQL", "Redis", "Databricks", "LLM"]
+    },
+    {
+      "start_date": "2021-05",
+      "end_date": "2023-10",
+      "location": "São Paulo - SP",
+      "remote": true,
+      "company": "Wittel",
+      "title": "Data Engineering Specialist",
+      "description": "As the technical leader of the Innovation team, spearheaded data-driven initiatives using AI to enhance competitiveness. Architected AWS solutions and guided teams in developing machine learning technology.",
+      "tools": ["Python", "FastAPI", "VueJS", "Spark", "Git", "PostgreSQL", "MySQL", "Bitbucket", "Bitbucket Pipelines", "Databricks", "AWS Cloud"]
+    },
+    {
+      "start_date": "2020-07",
+      "end_date": "2021-05",
+      "location": "São Caetano - SP",
+      "remote": true,
+      "company": "Via Varejo",
+      "title": "Senior Data Scientist",
+      "description": "Developed strategic pricing tools in collaboration with business teams, enhancing decision-making processes and pricing strategies through advanced analytics.",
+      "tools": ["Linux", "Python", "VueJS", "Spark", "Pandas", "Alteryx", "Jenkins", "Databricks", "Azure Cloud", "Data Factory", "Data Lake", "Nginx", "Git"]
+    },
+    {
+      "start_date": "2018-05",
+      "end_date": "2020-07",
+      "location": "Miami - FL",
+      "remote": true,
+      "company": "Synnex Westcon-Comstor Latam",
+      "title": "Machine Learning Engineer & Software Engineer",
+      "description": "Led machine learning projects from inception to deployment, developing Python APIs and configuring server environments for robust applications. Engaged with business teams to deliver software solutions using SCRUM and Kanban methodologies, enhancing operational efficiencies and application deployments.",
+      "tools": ["Python", "Keras", "Scikit-Learn", "Pandas", "Git", "Jenkins", "C#", ".NET (Framework and Core)", "HTML", "CSS", "JavaScript", "AngularJS", "VueJS", "SQL Server"]
+    }
+  ],
+  "contact": {
+    "address": {
+      "line1": "Nova Friburgo - RJ",
+      "line2": ""
+    },
+    "phone": {
+      "number": "+55 (22) 99622-3098",
+      "whatsapp": true
+    },
+    "email": "r3ck.dev@gmail.com",
+    "website": "https://www.r3ck.com.br/",
+    "linkedin": "https://www.linkedin.com/in/rennancockles",
+    "github": "https://github.com/rennancockles"
+  },
+  "languages": [
+    {
+      "language": "Portuguese",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Advanced"
+    }
+  ],
+  "certifications": [
+    {
+      "date": "2021-10",
+      "authority": "Certiprof",
+      "name": "LGPD Fundamentals (LGPDF)",
+      "url": ""
+    },
+    {
+      "date": "2020-09",
+      "authority": "Kanban Institute",
+      "name": "Kanban Foundation (KIKF)",
+      "url": "https://certificates.easy-lms.com/exam/session/65f5540c-27c2-44c3-aff8-90be99c78ae2"
+    },
+    {
+      "date": "2020-07",
+      "authority": "CertiProf",
+      "name": "Scrum Foundation Professional Certificate (SFPC)",
+      "url": ""
+    },
+    {
+      "date": "2020-07",
+      "authority": "CertiProf",
+      "name": "DevOps Essentials Professional Certificate (DEPC)",
+      "url": ""
+    },
+    {
+      "date": "2020-01",
+      "authority": "Stanford",
+      "name": "Machine Learning",
+      "url": ""
+    },
+    {
+      "date": "2020-01",
+      "authority": "IBM",
+      "name": "Scalable Machine Learning on Big Data using Apache Spark",
+      "url": "https://coursera.org/share/88e3ad334d5745ac70eb70b573ca74a2"
+    },
+    {
+      "date": "2020-01",
+      "authority": "IBM",
+      "name": "Building Deep Learning Models with TensorFlow",
+      "url": "https://coursera.org/share/acec1ccb0e032dd2526e7ef0ed4b159e"
+    },
+    {
+      "date": "2020-01",
+      "authority": "IBM",
+      "name": "Building Deep Learning Models with Keras",
+      "url": "https://coursera.org/share/2dbbf73a410b572c9ab1f2fb2991169a"
+    },
+    {
+      "date": "2020-01",
+      "authority": "IBM",
+      "name": "Deep Neural Networks with PyTorch",
+      "url": "https://coursera.org/share/bdd651512804af1f62d8f5692a4619de"
+    },
+    {
+      "date": "2020-01",
+      "authority": "IBM",
+      "name": "Machine Learning with Python",
+      "url": "https://coursera.org/share/1f226021191598b5bc3021cd6bb1fc6b"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Git",
+      "years": 11
+    },
+    {
+      "name": "SQL",
+      "years": 11
+    },
+    {
+      "name": "Python",
+      "years": 10
+    },
+    {
+      "name": "DevOps",
+      "years": 7
+    },
+    {
+      "name": "Machine Learning",
+      "years": 5
+    },
+    {
+      "name": "Cloud Computing",
+      "years": 4
+    },
+    {
+      "name": "Docker",
+      "years": 4
+    }
+  ]
+}
