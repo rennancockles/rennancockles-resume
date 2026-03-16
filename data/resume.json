@@ -44,7 +44,7 @@
       "company": "Wittel",
       "title": "Technical Lead / Data Engineering Specialist",
       "description": "As the technical leader of the Innovation team, spearheaded data-driven initiatives using AI to enhance competitiveness. Architected AWS solutions and guided teams in developing machine learning technology.",
-      "tools": ["Python", "FastAPI", "VueJS", "Spark", "Git", "PostgreSQL", "MySQL", "Bitbucket", "Bitbucket Pipelines", "Databricks", "AWS Cloud"]
+      "tools": ["Python", "FastAPI", "VueJS", "Spark", "Git", "Docker", "PostgreSQL", "MySQL", "Bitbucket", "Bitbucket Pipelines", "Databricks", "AWS Cloud"]
     },
     {
       "start_date": "2020-07",
@@ -54,7 +54,7 @@
       "company": "Via Varejo",
       "title": "Senior Data Scientist",
       "description": "Developed strategic pricing tools in collaboration with business teams, enhancing decision-making processes and pricing strategies through advanced analytics.",
-      "tools": ["Linux", "Python", "VueJS", "Spark", "Pandas", "Alteryx", "Jenkins", "Databricks", "Azure Cloud", "Data Factory", "Data Lake", "Nginx", "Git"]
+      "tools": ["Linux", "Python", "VueJS", "Spark", "Pandas", "Alteryx", "Jenkins", "Docker", "Databricks", "Azure Cloud", "Data Factory", "Data Lake", "Nginx", "Git"]
     },
     {
       "start_date": "2018-05",
@@ -95,6 +95,16 @@
       "title": "Intern",
       "description": "Management of Ubuntu servers and software development in computer vision field, working with: Object recognition; Event detection; Image processing.",
       "tools": ["Linux", "Git", "Python", "Bash Script", "OpenCV", "MongoDB", "MySql"]
+    },
+    {
+      "start_date": "2013-08",
+      "end_date": "2016-07",
+      "location": "Nova Friburgo - RJ",
+      "remote": false,
+      "company": "State University of Rio de Janeiro",
+      "title": "Internship / Researcher",
+      "description": "State University of Rio de Janeiro is one of the best and most renowned universities in Brazil. I worked as a Physics researcher and teaching assistant developing internal projects with Ph.D. Professors, applying exercises, solving problems and teaching lab classes. In addition, I had the opportunity to obtain a Scientific Initiation scholarship from CNPq in Simulation and Visualization of Bi and Three-Dimensional Flows Using the SPH Method",
+      "tools": ["SciLab", "MatLab", "Python", "Git", "ParaView", "Bash"]
     }
   ],
   "contact": {
@@ -186,31 +196,31 @@
   "skills": [
     {
       "name": "Git",
-      "years": 12
-    },
-    {
-      "name": "SQL",
-      "years": 12
+      "start_year": 2013
     },
     {
       "name": "Python",
-      "years": 11
+      "start_year": 2013
+    },
+    {
+      "name": "SQL",
+      "start_year": 2015
     },
     {
       "name": "DevOps",
-      "years": 8
+      "start_year": 2017
     },
     {
       "name": "Machine Learning",
-      "years": 6
+      "start_year": 2020
     },
     {
       "name": "Cloud Computing",
-      "years": 5
+      "start_year": 2020
     },
     {
       "name": "Docker",
-      "years": 5
+      "start_year": 2020
     }
   ]
 }
